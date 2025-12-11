@@ -30,6 +30,6 @@ Notes:
 
 Support:
 --------
-For any questions regarding this template, contact: [your-email@example.com]
+For any questions regarding this template, contact: mirza.haracic.23@size.ba
 
 Thank you for using Modern Portfolio Website Template!
